@@ -2,7 +2,7 @@
 
 # Haowei AI
 
-### Building intelligent tools for creators, professionals, and emerging industries.
+### Building digital infrastructure for creators, professionals, and intelligent industries.
 
 **毫微之间，智见未来。**
 
@@ -12,113 +12,142 @@
 
 ---
 
-## About Haowei AI
+# About Haowei AI
 
-Haowei AI develops practical software, automation tools, and intelligent systems designed to turn professional knowledge into reusable digital capabilities.
+Haowei AI develops practical software, automation platforms, and intelligent infrastructure that transform professional knowledge into reusable digital capabilities.
 
-We focus on building tools that solve real workflow problems—from content research and desktop productivity to specialized design systems and industry infrastructure.
+Our work focuses on turning specialized experience, workflows, and creative skills into scalable software, APIs, and enterprise-ready platforms.
 
-毫微智能致力于开发实用的软件工具、自动化系统与行业数字化产品，将专业经验、工作流程与手艺能力转化为可重复调用的数字能力。
+毫微智能致力于构建软件工具、自动化平台与行业数字基础设施，将专业经验、工作流程与手艺能力转化为可重复、可扩展、可集成的数字能力。
 
 ---
 
-## Open Source
+# Open Source
 
-Our open-source projects currently cover content research, topic monitoring, information collection, and desktop productivity.
+Our open-source projects currently focus on creator workflows, desktop productivity, content research, and automation.
 
 | Project | Description | Status |
 | --- | --- | --- |
-| **XHS Topic Collector** | Local-first desktop tool for collecting and organizing Xiaohongshu topics, with optional OCR and ASR support. | Active |
-| **Zhihu Topic Collector** | Local-first tool for running and reviewing Zhihu topic-collection workflows. | Active |
-| **Douyin Trend Collector** | Local Douyin trend collector that saves popular topics as structured JSON data. | Active |
-| **Topic Monitor Dashboard** | Desktop control panel for operating and reviewing topic-monitoring pipelines. | Active |
-| **Quick Drawer** | Lightweight sidebar launcher for files, folders, local tools, and web pages. | Active |
-| **Floating Sticky Note** | Minimal floating-note utility for Windows and Ubuntu desktops. | Active |
+| **XHS Topic Collector** | Local-first desktop tool for collecting and organizing Xiaohongshu topics with optional OCR / ASR support. | Active |
+| **Zhihu Topic Collector** | Local-first workflow tool for Zhihu topic research. | Active |
+| **Douyin Trend Collector** | Collect and archive Douyin trending topics as structured JSON. | Active |
+| **Topic Monitor Dashboard** | Desktop dashboard for topic collection and monitoring pipelines. | Active |
+| **Quick Drawer** | Lightweight launcher for files, folders, applications, and web pages. | Active |
+| **Floating Sticky Note** | Minimal floating desktop note utility for Windows and Ubuntu. | Active |
 
-> Repository names and links will be added here as projects are transferred to the organization.
+> More open-source projects are being transferred into this organization.
 
 ---
 
-## Products and Platforms
+# Products
 
-### Yunzhuang · 云妆
+## Meixu · 眉序
 
-A digital eyebrow-design and PMU style platform for professionals, consumers, training institutions, and beauty-industry service providers.
+**Meixu** is a professional eyebrow-design platform and digital infrastructure for the PMU industry.
 
-Yunzhuang transforms eyebrow-design workflows and professional style assets into consistent, reusable, and service-ready digital capabilities.
+Instead of simply generating eyebrow previews, Meixu transforms professional eyebrow-design knowledge into reusable digital capabilities that can be delivered through software, APIs, and enterprise solutions.
 
-**Planned capabilities include:**
+Designed for:
 
-- Online eyebrow-design experience
-- Professional design and presentation tools
-- Commercial API access
-- White-label websites and applications
+- PMU professionals
+- Consumers
+- Training institutions
+- Beauty brands
+- Beauty SaaS providers
+- Enterprise integrations
+
+### Core Capabilities
+
+- Professional eyebrow design
+- Digital style asset management
+- Commercial API
+- White-label deployment
+- Enterprise integration
 - Organization-specific style libraries
-- Enterprise integration and customized delivery
-
-### PMU Communication Keyboard
-
-An open-source communication assistant designed for permanent-makeup professionals.
-
-Users can deploy it themselves and connect their own AI API. Installation, configuration, workflow customization, and professional communication libraries may be provided as optional services.
 
 ---
 
-## For Developers and Organizations
+## PMU Communication Keyboard
 
-Haowei AI is building reusable technical capabilities that can be integrated into external websites, applications, mini programs, and enterprise workflows.
+An open-source AI communication assistant built for permanent makeup professionals.
+
+Users can deploy it locally, connect their preferred AI model, and customize professional communication workflows.
+
+Optional commercial services may include:
+
+- Installation
+- Configuration
+- Workflow customization
+- Professional prompt libraries
+
+---
+
+# Developer Platform
+
+Haowei AI is building reusable technical infrastructure that enables third-party applications to integrate professional PMU capabilities.
 
 Potential collaboration models include:
 
 - API integration
-- White-label products
-- OEM delivery
-- Custom web and application development
-- Private workflow configuration
-- Industry-specific tool development
+- White-label platforms
+- OEM solutions
+- Enterprise deployment
+- Custom development
+- Industry-specific integrations
 
 ---
 
-## Our Principles
+# Engineering Principles
 
-**Practical before performative.**  
-We build tools around real problems rather than technology demonstrations.
+### Build practical software.
 
-**Open where it creates value.**  
-General-purpose tools, examples, and integration components may be open-sourced.
+Technology should solve real workflow problems.
 
-**Protect what creates differentiation.**  
-Core algorithms, proprietary assets, specialized engines, and commercial infrastructure remain protected.
+### Open the ecosystem.
 
-**Turn experience into infrastructure.**  
-Professional knowledge should not remain locked inside individual memory, manual work, or isolated workflows.
+General-purpose tools, SDKs, and developer utilities are open-source.
+
+### Protect core technologies.
+
+Core algorithms, proprietary assets, rendering engines, and commercial infrastructure remain private.
+
+### Transform experience into infrastructure.
+
+Professional knowledge should become reusable digital capability instead of remaining locked inside individuals.
 
 ---
 
-## Current Focus
+# Current Focus
 
-- Open-source productivity and content-research tools
+- Open-source productivity tools
 - Creator workflow automation
-- PMU and beauty-industry digital infrastructure
-- Design APIs and white-label delivery
-- Professional knowledge and style assetization
+- PMU digital infrastructure
+- Developer APIs
+- White-label platforms
+- Enterprise solutions
 
 ---
 
-## Contact
+# Contact
 
-Website: [wenxiuguancha.com](https://wenxiuguancha.com)
+Website
 
-GitHub: [github.com/haowei-ai](https://github.com/haowei-ai)
+https://wenxiuguancha.com
 
-For business collaboration, API access, OEM delivery, or customized development, contact information will be published through our official website.
+GitHub
+
+https://github.com/haowei-ai
+
+Business inquiries, API access, OEM cooperation, enterprise deployment, and technical partnerships are available through our official website.
 
 ---
 
 <div align="center">
 
-**Haowei AI · 毫微智能**
+## Haowei AI
 
-*Precision in detail. Intelligence for the future.*
+**Precision in Detail · Intelligence for the Future**
+
+**毫微智能**
 
 </div>
